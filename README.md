@@ -40,7 +40,12 @@ Build a replicable model for other supermarkets
 
 Present a solid and defensible business case
 
+
+## Raw Data 
+
 ![Vista previa del dataset](Screenshots/Muestra.png)
+
+## Proccessed Data
 
 ![Proceso de modelado](Screenshots/Formato1.png)
 
@@ -174,8 +179,11 @@ Construir un modelo replicable para otros supermercados
 
 Presentar un caso de negocio sólido y defendible
 
+## Datos en bruto
 
 ![Vista previa del dataset](Screenshots/Muestra.png)
+
+## Datos en proceso
 
 ![Proceso de modelado](Screenshots/Formato1.png)
 
