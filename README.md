@@ -129,12 +129,11 @@ Available at: https://www.mckinsey.com/capabilities/operations/our-insights/redu
 
 ### 🗂️ Repository Structure
 
-/data
-    datos_supermercado.xlsx
-    modelo_kpis.xlsx
-
-/docs
-    presentacion_caso_negocio.pdf
+/Data
+ - Project files (.csv, .xlxs)
+   
+/Screenshots
+ - Process visuals, intermediate images and processing images (.png)
 
 README.md
 
@@ -274,12 +273,10 @@ https://www.mckinsey.com/capabilities/operations/our-insights/reducing-shrink-wi
 
 ### 🗂️ Estructura del Repositorio
 
-Código
-/data
-    datos_supermercado.xlsx
-    modelo_kpis.xlsx
-
-/docs
-    presentacion_caso_negocio.pdf
+/Data
+ - Archivos del proyecto (csv, xlsx)
+   
+/Screenshots
+ - Visuales del proceso, imágenes intermedias y capturas del procesamiento
 
 README.md
