@@ -138,6 +138,10 @@ Available at: https://www.mckinsey.com/capabilities/operations/our-insights/redu
 README.md
 
 
+
+# Castellano 
+
+
 ## 🛒 Optimización de Supermercado con Azure Vision — Caso de Negocio Completo
 
 ### 📌 Descripción del Proyecto
