@@ -40,6 +40,10 @@ Build a replicable model for other supermarkets
 
 Present a solid and defensible business case
 
+![Vista previa del dataset](Screenshots/Muestra.png)
+
+![Proceso de modelado](Screenshots/Formato1.png)
+
 ### 🧠 Improvement Levers Analyzed
 Identification of low‑rotation products
 
