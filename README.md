@@ -4,7 +4,7 @@ Financial and operational model for a supermarket expanding in Madrid, evaluatin
 
 ## 🛒 Supermarket Optimization with Azure Vision — Full Business Case
 
-## 📌 Project Description
+## Project Description
 This project develops a financial and operational graphical model for a supermarket expanding in Madrid, evaluating the impact of implementing Azure Vision to improve in‑store efficiency, reduce shrinkage, and increase revenue.
 
 The analysis combines:
@@ -23,13 +23,13 @@ The goal is to demonstrate how computer vision can transform daily operations an
 
 ### 🛠️ Tools Used
 
-📊 Google Sheets  
+Google Sheets  
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1bEryeJ6KtVFxGgsIoLD0D8wA3vV2_jHE5aUb2Q0rhmQ/edit?gid=1518387817)
 
-🤖 Microsoft Copilot  
+Microsoft Copilot  
 [![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-5C2D91?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://copilot.microsoft.com/)
 
-### 🎯 Project Objectives
+### 📌 KPI Calculation Project Objectives
 Identify improvement opportunities through computer vision
 
 Quantify the economic impact of each lever
@@ -49,7 +49,7 @@ Present a solid and defensible business case
 
 ![Proceso de modelado](Screenshots/Formato1.png)
 
-### 🧠 Improvement Levers Analyzed
+### Improvement Levers Analyzed
 Identification of low‑rotation products
 
 Shelf optimization based on purchase frequency
@@ -60,7 +60,7 @@ Introduction of new products based on real demand
 
 Each lever is modeled with a percentage impact based on industry studies.
 
-### 📊 Methodology
+### Methodology
 Data collection (current state)
 
 Monthly revenue
@@ -127,7 +127,7 @@ McKinsey & Company (2022) – Reducing Shrink with Computer Vision
 McKinsey & Company (2022) Reducing shrink with computer vision and advanced analytics.
 Available at: https://www.mckinsey.com/capabilities/operations/our-insights/reducing-shrink-with-computer-vision-and-advanced-analytics
 
-### 🗂️ Repository Structure
+### Repository Structure
 
 /Data
  - Project files (.csv, .xlxs)
@@ -144,7 +144,7 @@ README.md
 
 ## 🛒 Optimización de Supermercado con Azure Vision — Caso de Negocio Completo
 
-### 📌 Descripción del Proyecto
+### Descripción del Proyecto
 
 Este proyecto desarrolla un modelo gráfico financiero y operativo para un supermercado en expansión en Madrid, evaluando el impacto de implementar Azure Vision para mejorar la eficiencia en tienda, reducir mermas y aumentar ingresos.
 
