@@ -21,16 +21,16 @@ Calculation of key KPIs (average ticket, shrinkage, revenue, net margin)
 
 The goal is to demonstrate how computer vision can transform daily operations and improve profitability.
 
-### 🛠️ Tools Used
+### Tools Used
 
 Google Sheets  
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1bEryeJ6KtVFxGgsIoLD0D8wA3vV2_jHE5aUb2Q0rhmQ/edit?gid=1518387817)
 
-Microsoft Copilot  
-[![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-5C2D91?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://copilot.microsoft.com/)
-
 Azure AI Vision   
 [![Azure AI Vision](https://img.shields.io/badge/Azure%20AI%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/products/ai-services/vision/)
+
+Microsoft Copilot  
+[![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-5C2D91?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://copilot.microsoft.com/)
 
 
 ### 📌 KPI Calculation Project Objectives
@@ -166,16 +166,19 @@ Cálculo de KPIs clave (ticket medio, mermas, ingresos, margen neto)
 
 El objetivo es demostrar cómo la visión artificial puede transformar la operación diaria y mejorar la rentabilidad.
 
-### 🛠️ Herramientas utilizadas
+### Herramientas utilizadas
 
-📊 Google Sheets  
+Google Sheets  
 [![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1bEryeJ6KtVFxGgsIoLD0D8wA3vV2_jHE5aUb2Q0rhmQ/edit?gid=1518387817)
 
-🤖 Microsoft Copilot  
+Azure AI Vision   
+[![Azure AI Vision](https://img.shields.io/badge/Azure%20AI%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/products/ai-services/vision/)
+
+Microsoft Copilot  
 [![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-5C2D91?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://copilot.microsoft.com/)
 
 
-### 🎯 Objetivos del Proyecto
+### Objetivos del Proyecto
 Identificar oportunidades de mejora mediante visión artificial
 
 Cuantificar el impacto económico de cada palanca
@@ -195,7 +198,7 @@ Presentar un caso de negocio sólido y defendible
 ![Proceso de modelado](Screenshots/Formato1.png)
 
 
-### 🧠 Palancas de Mejora Analizadas
+### Palancas de Mejora Analizadas
 Identificación de productos con baja rotación
 
 Optimización de lineales según frecuencia de compra
