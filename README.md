@@ -29,6 +29,10 @@ Google Sheets
 Microsoft Copilot  
 [![Copilot](https://img.shields.io/badge/Microsoft%20Copilot-5C2D91?style=for-the-badge&logo=microsoftcopilot&logoColor=white)](https://copilot.microsoft.com/)
 
+Azure AI Vision
+[![Azure AI Vision](https://img.shields.io/badge/Azure%20AI%20Vision-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/products/ai-services/vision/)
+
+
 ### 📌 KPI Calculation Project Objectives
 Identify improvement opportunities through computer vision
 
